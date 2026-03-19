@@ -141,22 +141,22 @@ Start here: [https://serp.ly/dreamcam-video-downloader](https://serp.ly/dreamcam
 
 ## FAQ
 
-**Can I record DreamCam live streams**  
+**Can I record DreamCam live streams?**  
 Yes. Active DreamCam live rooms can be recorded while they are streaming.
 
-**Can I download recorded DreamCam videos too**  
+**Can I download recorded DreamCam videos too?**  
 Yes. The extension supports recorded videos on supported DreamCam pages.
 
-**Does it support VR streams**  
+**Does it support VR streams?**  
 Yes, when DreamCam exposes compatible VR-capable media for that page.
 
-**What file format do downloads use**  
+**What file format do downloads use?**  
 Videos are saved as MP4 files.
 
-**Where are videos saved**  
+**Where are videos saved?**  
 They are saved to your default Downloads location, typically inside a DREAMCAM subfolder.
 
-**Do I need extra software**  
+**Do I need extra software?**  
 No. Everything runs through the browser extension.
 
 ## Notes
