@@ -5,6 +5,6 @@
   "input": "./INPUT_SCHEMA.json",
   "name": "dreamcam-downloader",
   "readme": "../ACTOR.md",
-  "title": "Dreamcam Downloader",
+  "title": "DreamCam Downloader Browser Extension",
   "version": "0.0"
 }
