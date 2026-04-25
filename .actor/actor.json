@@ -1,0 +1,10 @@
+{
+  "actorSpecification": 1,
+  "buildTag": "latest",
+  "description": "Dreamcam Downloader listing and downloader workflow.",
+  "input": "./INPUT_SCHEMA.json",
+  "name": "dreamcam-downloader",
+  "readme": "../ACTOR.md",
+  "title": "Dreamcam Downloader",
+  "version": "0.0"
+}
