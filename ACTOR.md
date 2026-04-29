@@ -1,4 +1,4 @@
-# DreamCam Downloader Browser Extension
+# DreamCam Downloader
 
 > Record DreamCam live streams, save performer recordings, and download supported VR videos as MP4.
 
