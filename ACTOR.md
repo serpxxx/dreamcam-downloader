@@ -1,6 +1,12 @@
-# DreamCam Downloader
+# DreamCam Video Downloader | How to Download DreamCam Videos
 
 > Record DreamCam live streams, save performer recordings, and download supported VR videos as MP4.
+
+## Get it Here
+
+Get it here: https://serp.ly/dreamcam-video-downloader
+
+![DreamCam Downloader](https://raw.githubusercontent.com/serpxxx/dreamcam-downloader/main/assets/workflow-preview.webp)
 
 DreamCam Downloader is a browser extension made for users who want to keep DreamCam content available outside the site. It works with live rooms, recorded videos, and supported VR streams, giving you a simpler browser workflow for detection, quality selection, and local MP4 saving.
 
@@ -9,11 +15,6 @@ DreamCam Downloader is a browser extension made for users who want to keep Dream
 - Save supported VR streams with playback-friendly metadata where available
 - Choose from available qualities before you start
 - Keep local MP4 copies for replay, archiving, or device transfer
-
-## Get it Here
-
-Get it here: https://serp.ly/dreamcam-video-downloader
-
 ## Table of Contents
 
 - [Why DreamCam Downloader](#why-dreamcam-downloader)
